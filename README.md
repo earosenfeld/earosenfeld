@@ -1,4 +1,4 @@
-## Hi, I'm Eric
+# Hi, I'm Eric
 
 Robotics software engineer — motion control, industrial protocol integration, and machine vision. I build the software layer between real hardware and the people who run it: C++ motor-control libraries, CAN / EtherCAT / Modbus-TCP bring-up, welding workflow tooling, and the dashboards that make a robot cell explainable.
 
