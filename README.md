@@ -4,6 +4,8 @@ Robotics software engineer — motion control, industrial protocol integration, 
 
 Mechanical engineering background, full-stack fluency, currently shipping robot features at a collaborative-robotics company.
 
+[![Dual-arm microfactory replay: vision-guided assembly with failure recovery](https://raw.githubusercontent.com/earosenfeld/dual-arm-microfactory/main/docs/assets/hero-demo.gif)](https://earosenfeld.github.io/dual-arm-microfactory/demo/)
+
 ### Featured projects
 
 | Project | What it shows |
